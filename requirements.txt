@@ -3,3 +3,5 @@ mistralai
 pandas
 pillow
 python-dotenv
+boto3
+textract
